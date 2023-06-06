@@ -14,10 +14,6 @@ I'm currently working mainly with **Typescript** and **Node.js**. Repository wis
 
 - [**Newton**](https://github.com/alexberriman/newtondb): A simple, easy to use and extendible JSON database.
 
-## 📚 Tech articles and talks
-
-None yet 🙈
-
 ## ✨ About me
 
 - Massive 🤓 for anything to do with space and cosmology.
